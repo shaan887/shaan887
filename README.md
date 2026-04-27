@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mohammad Shaan
 
-<!--
-**shaan887/shaan887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student focused on Cybersecurity, Cloud Security, AI Security, and Future Cryptography.
 
-Here are some ideas to get you started:
+## Skills
+- Linux
+- Networking
+- Nmap
+- Burp Suite
+- Web Security Basics
+- AWS Fundamentals
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Pentesting
+- Cloud Security
+- AI Security
+- Post-Quantum Cybersecurity
+
+## Projects
+- Recon Scripts
+- Pentest Reports
+- Security Notes
+- AI Security Checklists
